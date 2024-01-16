@@ -1,6 +1,6 @@
 # investigation-fast-api
 
-This ml project will predict number of fraud in city
+This ML project will predict the number of frauds in the city and predict the city that raises the maximum number of frauds.
 
 Create virtual envirment : python -m venv myenv
 
